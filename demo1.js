@@ -6,5 +6,6 @@ function (id){
 	document.onmousedown=function(){
 		disX=ev.pageX-obj.offsetLeft;
 		disY=ev.pageY-obj.offsetTop;
+		//
 	}
 }
